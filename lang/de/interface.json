@@ -116,7 +116,7 @@
             "cpu": "CPU: %{cpuUsage}%%",
             "apm": "APM: %{apm} (Aktionen pro Minute)",
             "framerate": "FPS: %{fps}",
-            "gpuMemory": "GPU-Speicher: %{gpuUsage}%%",
+            "gpuMemory": "GPU-Arbeitsspeicher: %{gpuUsage}%%",
             "pointClickTooltip": "Klicke, um zum letzten vom Spieler gesetzten Punkt zu gehen",
             "aiName": "%{name} (KI)",
             "desynced": "desynchronisiert",
