@@ -206,6 +206,8 @@
             "resurrect_tooltip": "Belebe Wracks wieder, damit sie erneut zu Einheiten werden (Klicke und ziehe für Bereichsauswahl)",
             "guard": "Beschützen",
             "guard_tooltip": "Eine andere Einheit vor feindlichen Einheiten schützen, die sie angreifen",
+            "factoryguard": "Schützen (Arbeiter)",
+            "factoryguard_tooltip": "Neu erschaffene Arbeiter werden ihre Ursprungsfabrik unterstützen",
             "wait": "Warten",
             "wait_tooltip": "Eine Einheit/Fabrik beim Abarbeiten der Befehlswarteschlange anhalten",
             "repair": "Reparieren",
